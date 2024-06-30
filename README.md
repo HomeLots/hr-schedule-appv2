@@ -12,10 +12,16 @@
 
 ## Clear cache if `php artisan migrate` is giving you issues
 
-`php artisan cache:clear`
-`php artisan route:clear`
-`php artisan config:clear`
-`php artisan view:clear`
-`php artisan event:clear`
-or to do them all at once.
+`php artisan cache:clear`  
+
+`php artisan route:clear`  
+
+`php artisan config:clear`  
+
+`php artisan view:clear`  
+
+`php artisan event:clear`  
+
+or to do them all at once,  
+
 `php artisan optimize:clear`
